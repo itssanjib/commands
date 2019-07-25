@@ -1,9 +1,9 @@
 ### Useful Commands
 
-1. Git Commands
+Git Commands
 
-2. Linux Commands
+Linux Commands
 
-3. Maven Commands
+Maven Commands
 
-4. AWS Commands
+AWS Commands
