@@ -1,9 +1,9 @@
-# Useful commands repository.
+# Useful Commands
 
-## Git Command
+## 1. Git Commands
 
-## Linux Commands
+## 2. Linux Commands
 
-## Maven Commands
+## 3. Maven Commands
 
-## AWS Commands
+## 4. AWS Commands
